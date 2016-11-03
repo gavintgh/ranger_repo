@@ -9,9 +9,5 @@ python create_ranger_hive_policies.py <hive_ranger_csv> <ranger server> <ranger 
 Output
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Policy xxxxxxx Created
-Policy xxxxxxx Created
-Policy xxxxxxx Created
-Policy xxxxxxx Created
-Policy xxxxxxx Created
-Policy xxxxxxx Created
+
 
