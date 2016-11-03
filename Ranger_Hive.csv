@@ -1,0 +1,3 @@
+Policy name,Resource path,AD groups,select,ALL,Comment
+pol-hive-sys-cn_rw,sys_cn_uat*,pol-hdfs_sys-cn_rw,,Y,Update on 3/11/2016
+,,pol-hive_sys-cn_ro,Y,,
