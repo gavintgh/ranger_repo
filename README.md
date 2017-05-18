@@ -11,3 +11,9 @@ Output
 Policy xxxxxxx Created
 
 
+Added two more python scripts for policy extraction from ranger, this is useful when doing migration:
+
+1, Retrieve json policy from ranger
+
+2, Extract specific policy detail from json
+
